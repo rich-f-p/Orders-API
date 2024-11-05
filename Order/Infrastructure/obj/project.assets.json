@@ -1512,7 +1512,7 @@
           }
         }
       },
-      "ApplicationCore/1.0.0": {
+      "Order.ApplicationCore/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -1521,10 +1521,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
         },
         "compile": {
-          "bin/placeholder/ApplicationCore.dll": {}
+          "bin/placeholder/Order.ApplicationCore.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ApplicationCore.dll": {}
+          "bin/placeholder/Order.ApplicationCore.dll": {}
         }
       }
     }
@@ -4077,19 +4077,19 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "ApplicationCore/1.0.0": {
+    "Order.ApplicationCore/1.0.0": {
       "type": "project",
-      "path": "../ApplicationCore/ApplicationCore.csproj",
-      "msbuildProject": "../ApplicationCore/ApplicationCore.csproj"
+      "path": "../ApplicationCore/Order.ApplicationCore.csproj",
+      "msbuildProject": "../ApplicationCore/Order.ApplicationCore.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "ApplicationCore >= 1.0.0",
       "AutoMapper >= 13.0.1",
       "Microsoft.EntityFrameworkCore >= 8.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.10",
-      "Microsoft.EntityFrameworkCore.Tools >= 8.0.10"
+      "Microsoft.EntityFrameworkCore.Tools >= 8.0.10",
+      "Order.ApplicationCore >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4098,11 +4098,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Order\\Infrastructure\\Infrastructure.csproj",
-      "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Order\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Orders-API\\Order\\Infrastructure\\Order.Infrastructure.csproj",
+      "projectName": "Order.Infrastructure",
+      "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Orders-API\\Order\\Infrastructure\\Order.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Order\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Orders-API\\Order\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\richa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4120,8 +4120,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Order\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Order\\ApplicationCore\\ApplicationCore.csproj"
+            "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Orders-API\\Order\\ApplicationCore\\Order.ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Orders-API\\Order\\ApplicationCore\\Order.ApplicationCore.csproj"
             }
           }
         }

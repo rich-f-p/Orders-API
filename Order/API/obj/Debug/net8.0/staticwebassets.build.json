@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "bUm1vPqwZHJejLhtNIB7WgmMI8ngxypkYrDApg4MvgQ=",
-  "Source": "API",
-  "BasePath": "_content/API",
+  "Hash": "Tq3zIwSgUJ56V08E7t9jUZg54rUuCcpqMNC6m4YirpQ=",
+  "Source": "Order.API",
+  "BasePath": "_content/Order.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

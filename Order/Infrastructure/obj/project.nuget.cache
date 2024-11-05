@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S/Oj9RbI7qc=",
+  "dgSpecHash": "Atwly/DGvKk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Order\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Orders-API\\Order\\Infrastructure\\Order.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\richa\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\richa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

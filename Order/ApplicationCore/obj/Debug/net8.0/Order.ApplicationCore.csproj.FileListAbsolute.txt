@@ -1,0 +1,15 @@
+C:\Users\richa\Desktop\SEP Full Stack\Orders-API\Order\ApplicationCore\bin\Debug\net8.0\Order.ApplicationCore.deps.json
+C:\Users\richa\Desktop\SEP Full Stack\Orders-API\Order\ApplicationCore\bin\Debug\net8.0\Order.ApplicationCore.runtimeconfig.json
+C:\Users\richa\Desktop\SEP Full Stack\Orders-API\Order\ApplicationCore\bin\Debug\net8.0\Order.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\Orders-API\Order\ApplicationCore\bin\Debug\net8.0\Order.ApplicationCore.pdb
+C:\Users\richa\Desktop\SEP Full Stack\Orders-API\Order\ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\richa\Desktop\SEP Full Stack\Orders-API\Order\ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\Desktop\SEP Full Stack\Orders-API\Order\ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\Orders-API\Order\ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.AssemblyInfo.cs
+C:\Users\richa\Desktop\SEP Full Stack\Orders-API\Order\ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\SEP Full Stack\Orders-API\Order\ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.sourcelink.json
+C:\Users\richa\Desktop\SEP Full Stack\Orders-API\Order\ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\Orders-API\Order\ApplicationCore\obj\Debug\net8.0\refint\Order.ApplicationCore.dll
+C:\Users\richa\Desktop\SEP Full Stack\Orders-API\Order\ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.pdb
+C:\Users\richa\Desktop\SEP Full Stack\Orders-API\Order\ApplicationCore\obj\Debug\net8.0\Order.ApplicationCore.genruntimeconfig.cache
+C:\Users\richa\Desktop\SEP Full Stack\Orders-API\Order\ApplicationCore\obj\Debug\net8.0\ref\Order.ApplicationCore.dll

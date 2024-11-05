@@ -4077,11 +4077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Order\\ApplicationCore\\ApplicationCore.csproj",
-      "projectName": "ApplicationCore",
-      "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Order\\ApplicationCore\\ApplicationCore.csproj",
+      "projectUniqueName": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Orders-API\\Order\\ApplicationCore\\Order.ApplicationCore.csproj",
+      "projectName": "Order.ApplicationCore",
+      "projectPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Orders-API\\Order\\ApplicationCore\\Order.ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Order\\ApplicationCore\\obj\\",
+      "outputPath": "C:\\Users\\richa\\Desktop\\SEP Full Stack\\Orders-API\\Order\\ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\richa\\AppData\\Roaming\\NuGet\\NuGet.Config",
