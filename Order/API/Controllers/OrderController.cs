@@ -34,13 +34,13 @@ namespace API.Controllers
             //get order by customer id
             return Ok(await orderServiceAsync.GetOrderByIdAsync(id));
         }
-        [HttpPost]
+        [HttpDelete]
         [Route("delete/{id}")]
         public async Task<IActionResult> DeleteOrder(int id)
         {
             return Ok(await orderServiceAsync.DeleteOrderAsync(id));
         }
-        [HttpPost]
+        [HttpPut]
         [Route("update/{id}")]
         public async Task<IActionResult> UpdateOrder(OrderRequestModel model, int id)
         {
